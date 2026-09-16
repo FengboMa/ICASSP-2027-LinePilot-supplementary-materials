@@ -1,8 +1,16 @@
 build/
 tmp/
+.DS_Store
 *.aux
 *.bbl
 *.blg
 *.log
 *.out
 *.toc
+/IEEEbib.bst
+/LICENSE
+/figures/
+/main.tex
+/refs.bib
+/spconf.sty
+/strings.bib
